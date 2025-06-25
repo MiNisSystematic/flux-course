@@ -8,4 +8,4 @@ spec:
   interval: 1m0s
   ref:
     branch: main
-  url: https://github.com/MiNisSystematic/flux-course/tree/main
+  url: https://github.com/MiNisSystematic/flux-course
